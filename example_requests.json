@@ -1,0 +1,62 @@
+{
+  "classical": {
+    "tempo": 123.046875,
+    "chroma_stft_mean": 0.260931,
+    "rms_mean": 0.031869,
+    "spectral_centroid_mean": 1344.958698,
+    "spectral_bandwidth_mean": 1520.016313,
+    "rolloff_mean": 2475.106804,
+    "zero_crossing_rate_mean": 0.073334,
+    "harmony_mean": -2.2e-05,
+    "perceptr_mean": -4.8e-05,
+    "mfcc1_mean": -315.384262
+  },
+  "hiphop": {
+    "tempo": 103.359375,
+    "chroma_stft_mean": 0.452387,
+    "rms_mean": 0.182424,
+    "spectral_centroid_mean": 2500.513459,
+    "spectral_bandwidth_mean": 2462.643244,
+    "rolloff_mean": 5317.271227,
+    "zero_crossing_rate_mean": 0.106867,
+    "harmony_mean": -7e-06,
+    "perceptr_mean": -0.000224,
+    "mfcc1_mean": -100.725872
+  },
+  "jazz": {
+    "tempo": 107.666016,
+    "chroma_stft_mean": 0.285688,
+    "rms_mean": 0.078201,
+    "spectral_centroid_mean": 1692.852898,
+    "spectral_bandwidth_mean": 2002.339787,
+    "rolloff_mean": 3463.57434,
+    "zero_crossing_rate_mean": 0.066955,
+    "harmony_mean": -1.1e-05,
+    "perceptr_mean": -4.8e-05,
+    "mfcc1_mean": -215.826935
+  },
+  "metal": {
+    "tempo": 123.046875,
+    "chroma_stft_mean": 0.477866,
+    "rms_mean": 0.137383,
+    "spectral_centroid_mean": 2683.280387,
+    "spectral_bandwidth_mean": 2238.358972,
+    "rolloff_mean": 5181.479045,
+    "zero_crossing_rate_mean": 0.150842,
+    "harmony_mean": -5e-06,
+    "perceptr_mean": -0.000203,
+    "mfcc1_mean": -73.785141
+  },
+  "pop": {
+    "tempo": 107.666016,
+    "chroma_stft_mean": 0.402106,
+    "rms_mean": 0.203363,
+    "spectral_centroid_mean": 3143.65906,
+    "spectral_bandwidth_mean": 3051.996053,
+    "rolloff_mean": 6879.308827,
+    "zero_crossing_rate_mean": 0.133619,
+    "harmony_mean": -1e-06,
+    "perceptr_mean": -1.2e-05,
+    "mfcc1_mean": -52.500181
+  }
+}
